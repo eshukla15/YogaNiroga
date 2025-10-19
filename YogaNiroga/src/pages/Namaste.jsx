@@ -7,6 +7,7 @@ import { Testimonials } from "../components/Testimonials";
 import Stats from "../components/Stats";
 import TeacherSection from "../components/TeacherSection";
 import Gallery from "../components/Gallery";
+import Services from "../components/Services";
 function Namaste() {
   return (
     <div >
@@ -15,6 +16,7 @@ function Namaste() {
         <HeroSection />
         <Stats />
         <AboutSection />
+        <Services />
         <TeacherSection />
         <Gallery />
         <Testimonials />
