@@ -303,26 +303,15 @@ return (
                 Connect With Me
               </h4>
               <div className="flex flex-wrap gap-3 sm:gap-4 justify-center sm:justify-start">
+               
                 <SocialIcon
-                  href="https://linkedin.com/in/anshul-kotwal-b0558324a"
-                  icon={<Linkedin size={16} />}
-                  color="from-blue-500 to-blue-600"
-                  label="LinkedIn"
-                />
-                <SocialIcon
-                  href="https://github.com/anshulkotwal"
-                  icon={<Github size={16} />}
-                  color={isDarkMode ? "from-gray-600 to-gray-700" : "from-gray-500 to-gray-600"}
-                  label="GitHub"
-                />
-                <SocialIcon
-                  href="https://x.com/Anshulkotwal12"
+                  href="https://x.com/"
                   icon={<Twitter size={16} />}
                   color="from-cyan-400 to-cyan-500"
                   label="Twitter"
                 />
                 <SocialIcon
-                  href="https://www.instagram.com/anshul_kotwal/"
+                  href="https://www.instagram.com/"
                   icon={<Instagram size={16} />}
                   color="from-pink-500 to-purple-600"
                   label="Instagram"
