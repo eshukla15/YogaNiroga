@@ -5,16 +5,16 @@ import { rightVariants } from "../../variants";
 const teachers = [
   {
     id: 1,
-    name: "Saurabh Bothra",
-    title: "Yoga Everyday with Saurabh Bothra",
+    name: "Anubhav Tripathi",
+    title: "Yoga Everyday with Anubhav Tripathi",
     subtitle: "12+ yrs of Yoga teaching to 12.7 million+ people",
     description:
       "Practical, impactful daily exercises and asanas create a thoughtful program for a healthy body and mind.",
-    image: t1, // change to your image path
+    //image: t1, // change to your image path
     bgColor: "bg-blue-50 dark:bg-gray-800",
     highlights: [
       "CEO and Co-Founder",
-      "IIT BHU ’14",
+      
       "Govt Certified Level 3 Yoga Instructor",
       "World Record Holder",
       "TedX Speaker",
@@ -22,16 +22,15 @@ const teachers = [
   },
   {
     id: 2,
-    name: "Trishala Bothra",
-    title: "Dance & Strength with Trishala Bothra",
+    name: "Dimple Verma",
+    title: "Strength with Dimple Verma",
     subtitle: "High-energy dance fitness for joyful cardio",
     description:
       "Experience Zumba: a fun, high-energy dance fitness class designed for joyful cardio. Stay excited to exercise and come back for more.",
-    image: t2, // change to your image path
+    //image: t2, // change to your image path
     bgColor: "bg-yellow-50 dark:bg-gray-800",
     highlights: [
       "COO and Co-Founder",
-      "IIT Bombay ’18",
       "London Business School ’20",
       "Yoga Instructor",
       "Official ZUMBA Instructor",
