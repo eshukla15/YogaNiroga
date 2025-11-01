@@ -7,7 +7,7 @@ const teachers = [
     id: 1,
     name: "Anubhav Tripathi",
     title: "Yoga Everyday with Anubhav Tripathi",
-    subtitle: "12+ yrs of Yoga teaching to 12.7 million+ people",
+    subtitle: "hehehe",
     description:
       "Practical, impactful daily exercises and asanas create a thoughtful program for a healthy body and mind.",
     //image: t1, // change to your image path
