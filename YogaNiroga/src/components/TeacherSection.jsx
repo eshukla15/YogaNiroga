@@ -14,7 +14,6 @@ const teachers = [
     bgColor: "bg-blue-50 dark:bg-gray-800",
     highlights: [
       "CEO and Co-Founder",
-      
       "Govt Certified Level 3 Yoga Instructor",
       "World Record Holder",
       "TedX Speaker",
@@ -41,9 +40,9 @@ const teachers = [
 
 const TeacherSection = () => {
   return (
-    <section className="py-16 bg-gray-950 text-gray-100" id="trainers">
+    <section className="py-16 bg-gray- text-gray-100" id="trainers">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-center text-3xl sm:text-4xl font-bold text-gray-200 mb-12">
+        <h2 className="text-center text-3xl sm:text-4xl font-bold text-gray-600 mb-12">
           Meet Your Trainer
         </h2>
 
@@ -72,7 +71,7 @@ const TeacherSection = () => {
 
               {/* Text */}
               <div className="flex-1 space-y-4">
-                <h3 className="text-2xl sm:text-3xl font-semibold text-gray-100">
+                <h3 className="text-2xl sm:text-3xl font-semibold text-black">
                   {teacher.title}
                 </h3>
                 <p className="text-base text-gray-300 font-medium">

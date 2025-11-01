@@ -275,16 +275,16 @@ return (
               <ContactInfo
                 icon={<Mail className="text-cyan-400" size={18} />}
                 label="Email"
-                value="anubhavtripathi@gmail.com"
-                link="mailto:eshukla15@gmail.com"
+                value="yoginirogi@gmail.com"
+                link="mailto:yoginirogi@gmail.com"
                 delay="0ms"
                 themeClasses={themeClasses}
               />
               <ContactInfo
                 icon={<Phone className="text-purple-400" size={18} />}
                 label="Phone"
-                value="  +91 9336220936"
-                link="tel:+919336220936"
+                value="  +91 9919990926"
+                link="tel:+919919990926"
                 delay="200ms"
                 themeClasses={themeClasses}
               />
@@ -292,6 +292,7 @@ return (
                 icon={<MapPin className="text-blue" size={18} />}
                 label="Location"
                 value="Bengaluru, India"
+                link="https://www.google.com/maps/place/YogaNiroga+(Wellness+Studio)+%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%A8%E0%B2%BF%E0%B2%B0%E0%B3%8B%E0%B2%97+%E0%B2%B5%E0%B3%86%E0%B2%B2%E0%B3%8D%E0%B2%A8%E0%B3%86%E0%B2%B8%E0%B3%8D+%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%81%E0%B2%A1%E0%B2%BF%E0%B2%AF%E0%B3%8B/@12.8690567,77.5393322,17z/data=!4m14!1m7!3m6!1s0x3bae41f74c56758b:0x76ed63488df93242!2zWW9nYU5pcm9nYSAoV2VsbG5lc3MgU3R1ZGlvKSDgsq_gs4vgspfgsqjgsr_gsrDgs4vgspcg4LK14LOG4LKy4LON4LKo4LOG4LK44LONIOCyuOCzjeCyn-CzgeCyoeCyv-Cyr-Cziw!8m2!3d12.8690567!4d77.5393322!16s%2Fg%2F11w3tj5nmc!3m5!1s0x3bae41f74c56758b:0x76ed63488df93242!8m2!3d12.8690567!4d77.5393322!16s%2Fg%2F11w3tj5nmc?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D"
                 delay="400ms"
                 themeClasses={themeClasses}
               />
@@ -305,13 +306,13 @@ return (
               <div className="flex flex-wrap gap-3 sm:gap-4 justify-center sm:justify-start">
                
                 <SocialIcon
-                  href="https://x.com/"
+                  href="https://x.com/yoganiroga"
                   icon={<Twitter size={16} />}
                   color="from-cyan-400 to-cyan-500"
                   label="Twitter"
                 />
                 <SocialIcon
-                  href="https://www.instagram.com/"
+                  href="https://www.instagram.com/yoganiroga"
                   icon={<Instagram size={16} />}
                   color="from-pink-500 to-purple-600"
                   label="Instagram"

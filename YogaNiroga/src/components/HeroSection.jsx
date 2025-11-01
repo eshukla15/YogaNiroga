@@ -10,12 +10,12 @@ export const HeroSection = () => (
     initial="offscreen"
     whileInView={"onscreen"}
     variants={rightVariants}
-    className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6 text-center items-center`}>
+    className={`flex-1 ${styles.flexStart} text:black flex-col xl:px-0 sm:px-16 px-6 text-center items-center`}>
         <br></br>
-  <div className="flex flex-row w-full justify-center relative">
+  <div className="text:black flex flex-row w-full justify-center relative">
     <h1
-      className="font-poppins font-semibold ss:text-[72px] text-[52px]
-      text-white ss:leading-[100.8px] leading-[75px]"
+      className="text-black font-poppins font-semibold ss:text-[72px] text-[52px]
+       ss:leading-[100.8px] leading-[75px]"
     >
       Welcome to <br className="sm:block hidden" />{" "}
       <span className="bg-clip-text text-transparent  tracking-tight bg-gradient-to-r from-green-500 via-green-600 to-green-400">YogaNiroga</span>{" "}
@@ -23,13 +23,13 @@ export const HeroSection = () => (
   </div>
 
   <h1
-    className="font-poppins font-semibold ss:text-[68px] text-[52px]
-    text-white ss:leading-[100.8px] leading-[75px] w-full"
+    className="text-grey-100 font-poppins font-semibold ss:text-[68px] text-[52px]
+     ss:leading-[100.8px] leading-[75px] w-full"
   >
     Shape your Body.
   </h1>
 <br></br>
-  <p className="text-lg md:text-1xl text-gray-300 max-w-3xl mx-auto transform transition-all duration-1200 ease-out opacity-100 translate-y-0 blur-0">
+  <p className="text-lg md:text-1xl text-black-300 max-w-3xl mx-auto transform transition-all duration-1200 ease-out opacity-100 translate-y-0 blur-0">
     At YogaNiroga, we offer a wide range of yoga sessions tailored to meet the unique needs and goals of individuals of all ages and body types. 
   </p>
 </motion.div>
